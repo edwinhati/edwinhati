@@ -1,4 +1,6 @@
 ![alt text](https://github.com/edwinhati/edwinhati/raw/main/welcome.png)
+## Hello there!
+My name is Edwin
 <!--
 **edwinhati/edwinhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
