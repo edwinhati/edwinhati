@@ -1,17 +1,12 @@
-![alt text](https://github.com/edwinhati/edwinhati/raw/main/welcome.png)
-## Hello there!
-My name is Edwin
-<!--
-**edwinhati/edwinhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+edwinhati@github ~: $ echo introduction
+"Hi, I'm Edwin. Welcome to my github profile"
+edwinhati@github ~: $ cat contacts.json
+```
+```json
+{
+    "instagram" : "@edwinhati",
+    "linkedin" : "Edwin Hati"
+    "email" : "edwinhati@icloud.com"
+}
+```
