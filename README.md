@@ -7,6 +7,6 @@ edwinhati@github ~: $ cat contacts.json
 {
     "instagram" : "@edwinhati",
     "linkedin" : "Edwin Hati"
-    "email" : "edwinhati@icloud.com"
+    "email" : "edwinhati@outlook.com"
 }
 ```
